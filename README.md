@@ -19,7 +19,7 @@ Developed as part of an assignment for **HumanChain**, a deep-tech AI startup fo
 
 1. **Clone the Repository**
    ```bash
-
+https://github.com/ayushmishra12212147/Ai-safety-incidents.git
 cd ai-safety-dashboard
 npm install
 npm start
