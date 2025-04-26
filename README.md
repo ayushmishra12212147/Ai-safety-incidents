@@ -16,10 +16,15 @@ Developed as part of an assignment for **HumanChain**, a deep-tech AI startup fo
 - 🎨 **Responsive Layout**: Clean, flexible UI using Flexbox/Grid with hover effects and form validation.
 
 ---
-Clone the Repository
 
-git clone https://github.com/ayushmishra12212147/Ai-safety-incidents.git
-cd ai-safety-dashboard
+## 🛠️ Installation and Setup
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/ayushmishra12212147/Ai-safety-incidents.git
+   cd ai-safety-dashboard
+
+
 npm install
 npm start
 Navigate to http://localhost:3000 to view the app.
