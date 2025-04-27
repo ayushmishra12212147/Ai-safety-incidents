@@ -1,3 +1,7 @@
+
+
+Link:  https://ai-safety-incidents.netlify.app/
+
 # AI Safety Incident Dashboard
 
 An interactive web application built with **React** to manage and visualize hypothetical AI safety incidents.  
