@@ -38,6 +38,7 @@ function App() {
     };
     setIncidents(prev => [newEntry, ...prev]);
     setNewIncident({ title: '', description: '', severity: 'Low' });
+    alert("Incident successfully reported!");
   };
 
   return (
